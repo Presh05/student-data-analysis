@@ -1,37 +1,34 @@
 # Student Data Analysis
 
-## Project Overview
+## About This Project
 
-This project demonstrates basic data organisation, cleaning and analysis using Microsoft Excel.
+This project is part of my Information Science learning portfolio.
 
-The project uses a sample student dataset to demonstrate how data can be organised, checked, analysed and visualised.
+The purpose of the project is to develop practical skills in
+data organisation, data analysis and information management.
 
-## Skills Demonstrated
+## Skills I Am Developing
 
-- Data entry
 - Data organisation
-- Data cleaning
-- Sorting and filtering
-- Excel formulas
 - Data analysis
+- Microsoft Excel
+- Database management
+- Information management
 - Data visualisation
-- Chart creation
-- Attention to detail
+- Research and problem solving
 
-## Tools Used
+## Tools
 
 - Microsoft Excel
+- W3Schools
 - GitHub
-
-## Project Objectives
-
-1. Organise a structured dataset.
-2. Check the dataset for errors and inconsistencies.
-3. Analyse student performance data.
-4. Calculate basic statistics.
-5. Create charts to visualise the results.
-6. Document the analysis process.
 
 ## Project Status
 
 Currently in development.
+
+## Note
+
+This portfolio uses sample and fictional data for learning
+and demonstration purposes. No real personal or confidential
+information is included.
